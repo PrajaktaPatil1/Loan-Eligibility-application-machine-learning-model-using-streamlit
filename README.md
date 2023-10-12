@@ -8,4 +8,4 @@ Prediction: When the user clicks the "Check" button, the prediction function is 
 Streamlit Interface: The Streamlit interface is defined in the main function. It creates a simple web page with a yellow header and a title, and it uses Streamlit's st.markdown and st.button functions to present the user interface. The final loan eligibility status is displayed using st.success.
 
 This code demonstrates a basic example of how to create a user-friendly interface for a machine learning model using Streamlit. It's essential to ensure that the trained model and the application's dependencies are set up correctly before running the code.
-![loan Eligibility applicaton]
+![loan Eligibility applicaton](https://github.com/PrajaktaPatil1/Loan-Eligibility-application-machine-learning-model-using-streamlit/blob/main/Screenshot%20(398).png)
